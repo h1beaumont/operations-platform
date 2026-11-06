@@ -1,5 +1,7 @@
 # StaffFlow
 
+**The system an entire 170-property short-let business ran on.**
+
 The operations platform I built to run a short-let business that grew to 170 properties, with a team of 35 across the UK and the Philippines. The aim was for the whole business to run through one system: hiring, daily cleaning, maintenance, linen and supplies, lettings and finance, with AI handling the routine questions and a live leaderboard keeping the cleaning team motivated.
 
 Names, contact details and property data have been removed or replaced. Company and staff names in the code are placeholders.
