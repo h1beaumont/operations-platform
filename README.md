@@ -1,4 +1,4 @@
-# StaffFlow
+# Operations platform
 
 **The system an entire 170-property short-let business ran on.**
 
